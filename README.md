@@ -9,7 +9,7 @@
 
 Ví dụ:
 make all
-./os sched_0
+./os sched_3
 
 
 ## Cấu trúc của BTL:
