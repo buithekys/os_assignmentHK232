@@ -5,7 +5,7 @@
   
 ## Commands
 - `make all`: để compile tất cả các file code
-- `./os [tên file input] [tên file output]`: chạy code  
+- `./os [tên file input] `: chạy code  
 
 Ví dụ:
 make all
